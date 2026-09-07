@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanjoon</h1>
 <h3 align="center">인프라 와 백엔드에 관심많은 엔지니어 입니다.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanjun2022" alt="hanjun2022" /></a> </p>
+
 
 - 🌱 I’m currently learning **Spring and Infra**
 
